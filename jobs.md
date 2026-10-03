@@ -13,8 +13,38 @@
 
 ## Common Skills
 
-完成岗位调研后统计。
+1. Python 和基本软件工程能力
+2. REST API、JSON 和系统集成
+3. LLM API、Prompt、AI Agent 和工具调用
+4. RAG、检索和上下文管理
+5. 测试、评估、错误处理和可靠性
+6. Git、代码审查和技术文档
+7. SQL/PostgreSQL 或其他数据库
+8. 云平台、部署和 CI/CD
+9. 与产品、客户或其他团队沟通需求
+
+## Current Strengths
+
+- Computer Science 和 OMSCS 教育背景
+- 熟悉 Python，并做过后端项目
+- 了解 API、Git 和基本软件开发流程
+- 已完成 Gemini API 调用并安全管理密钥
+- 正在构建可以公开展示的 AI 文档问答项目
 
 ## Current Skill Gaps
 
-完成岗位调研后总结。
+1. 缺少完整的 RAG、来源引用、拒答和评估项目
+2. 缺少 FastAPI、PostgreSQL 和生产级后端集成证据
+3. 缺少云部署、Docker 和 CI/CD 作品
+4. 缺少 Agent 工具调用、结构化输出和 MCP 实践
+
+## Priority Roles
+
+优先申请：
+
+1. Solutions Engineer - Early Career
+2. AI Engineer I
+3. AI Product Specialist
+4. Associate AI Engineer
+
+完成当前项目后再冲刺要求生产经验的 LLM Backend Engineer。
