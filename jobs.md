@@ -8,6 +8,7 @@
 | 2 | OneStream | Associate AI Engineer（New York 等办公室，Hybrid） | [Official posting](https://recruiting.ultipro.com/one1018onso/JobBoard/1955ffa6-bda6-4c95-8412-2c731d693ab2/OpportunityDetail?opportunityId=b20df282-c7f0-4bfe-a503-f94daffbe55a) | Python、SQL/NoSQL、ML、data analysis、Flask/FastAPI、Azure、distributed systems | 本科；1–2 年编程和生产 ML 或类似经验；要求无需 sponsorship 的美国工作授权 | 部分匹配：CS/OMSCS、Python、后端；需要用项目补充 FastAPI、数据库、部署和 ML 评估证据 |
 | 3 | LiteLLM | AI Engineer（San Francisco，On-site） | [Official posting](https://jobs.ashbyhq.com/litellm/6e025e39-6f8a-46bd-91f7-8784d1f5076b/) | Python、FastAPI、LLM APIs、Agents、MCP、Redis、Postgres、system design | 1–2 年 backend/full-stack production experience | 冲刺岗位：Python 和后端方向匹配；需要补生产级 FastAPI、数据库、多个模型 API、系统设计和开源贡献 |
 | 4 | Regal | AI Product Specialist（New York City，Hybrid） | [Official posting](https://jobs.lever.co/regal.ai/6ede46c2-86ca-42a6-a645-322c3bcdbb4a) | AI agents、prompt engineering、function building、QA testing、documentation、customer requirements | 0–2 年；接受实习或有文档的个人/学校项目；技术相关本科或硕士 | 较强匹配：CS/OMSCS、Python、AI 项目和文档能力；需要补 conversational AI、Voice AI、STT/TTS 和客户场景分析 |
+| 5 | Nerdio | Solutions Engineer - Early Career（US Remote） | [Official posting](https://ats.rippling.com/nerdio-careers/jobs/0b82e6f3-fd54-40d7-996a-ca02b4c67f67) | AI agents、APIs、MCP、RAG、structured outputs、testing、Git、PostgreSQL、Azure、CI/CD | Recent graduates encouraged；课程、个人项目或开源项目均可；要求无需 sponsorship 的美国工作授权 | 很匹配：CS/OMSCS、Python、后端、API、Git 和当前 Gemini 项目；需要补 PostgreSQL、Azure、CI/CD、Agent 工具调用和部署 |
 
 
 ## Common Skills
