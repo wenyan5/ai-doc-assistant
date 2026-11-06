@@ -48,3 +48,19 @@
 4. Associate AI Engineer
 
 完成当前项目后再冲刺要求生产经验的 LLM Backend Engineer。
+
+
+## Project Evidence Roadmap
+
+当前项目已经证明：
+
+- Python、Streamlit、Gemini API、Git 和 GitHub Codespaces
+- 字符级 TF-IDF 检索和余弦相似度
+- 10条可重复检索测试，预期来源 10/10 进入前三名
+- API key 使用 Secrets 管理，在线应用限制访问
+
+接下来需要完成的技术证据：
+
+1. 在 Streamlit 页面中先检索文档，再让 Gemini 根据检索结果回答，并显示来源文件名。
+2. 对文档外问题明确拒答，避免模型编造内容。
+3. 为检索和回答流程补充自动化测试、错误处理、评估结果和完整 README。
